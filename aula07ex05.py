@@ -1,0 +1,23 @@
+print('\033[32m============ TABUADA ============')
+nq = int(input('Número: '))
+x1 = nq*1
+x2 = nq*2
+x3 = nq*3
+x4 = nq*4
+x5 = nq*5
+x6 = nq*6
+x7 = nq*7
+x8 = nq*8
+x9 = nq*9
+x10 = nq*10
+print(f'{nq} X 1= {x1}')
+print(f'{nq} X 2= {x2}')
+print(f'{nq} X 3= {x3}')
+print(f'{nq} X 4= {x4}')
+print(f'{nq} X 5= {x5}')
+print(f'{nq} X 6= {x6}')
+print(f'{nq} X 7= {x7}')
+print(f'{nq} X 8= {x8}')
+print(f'{nq} X 9= {x9}')
+print(f'{nq} X 10= {x10}')
+print('=' * 32)
